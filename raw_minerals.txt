@@ -1,0 +1,130 @@
+Hydrogen	Mineral Common.png Common	Rainbow World - None	70
+Helium	Mineral Common.png Common	Noble World - Light	125
+Lithium	Mineral Common.png Common	Cimmerian World - Medium	535
+Beryllium	Mineral BaseMetal.png Base Metal	Plutonic World - Huge	1850
+Boron	Mineral Common.png Common	Plutonic World - Huge	2460
+Carbon	Mineral Common.png Common	Carbide World - Heavy×3	2260
+Nitrogen	Mineral Common.png Common	Rainbow World - None	805
+Oxygen	Mineral Corrosive.png Corrosive	Redux World - Medium	1140
+Fluorine	Mineral Corrosive.png Corrosive	Halide World - Medium	1505
+Neon	Mineral NobleGas.png Noble Gas	Fluorescent World - Huge	1205
+Sodium	Mineral BaseMetal.png Base Metal	Cracked World - Huge	970
+Magnesium	Mineral BaseMetal.png Base Metal	Iodine World - Light	1740
+Aluminum	Mineral BaseMetal.png Base Metal	Xenolithic World - Huge	2700
+Silicon	Mineral Common.png Common	Maroon World - Medium	2330
+Phosphorus	Mineral Common.png Common	Ultraviolet World - Huge	1825
+Sulfur	Mineral Corrosive.png Corrosive	Metal World - Medium	1960
+Chlorine	Mineral Corrosive.png Corrosive	Chlorine World - Heavy×2	1470
+Argon	Mineral NobleGas.png Noble Gas	Noble World - Light	1400
+Potassium	Mineral BaseMetal.png Base Metal	Dust World - Light	855
+Calcium	Mineral BaseMetal.png Base Metal	Selenic World - Medium	1550
+Scandium	Mineral BaseMetal.png Base Metal	Ultraviolet World - Medium	2985
+Titanium	Mineral BaseMetal.png Base Metal	Plutonic - Light	4505
+Vanadium	Mineral BaseMetal.png Base Metal	Metal World - Medium	6110
+Chromium	Mineral BaseMetal.png Base Metal	Cracked World - Huge	7190
+Manganese	Mineral BaseMetal.png Base Metal	Cracked World - Huge	7470
+Iron	Mineral BaseMetal.png Base Metal	Magnetic World - Heavy	7875
+Cobalt	Mineral BaseMetal.png Base Metal	Ultramarine World - Medium	8900
+Nickel	Mineral BaseMetal.png Base Metal	Metal World - Heavy	8910
+Copper	Mineral BaseMetal.png Base Metal	Copper World - Huge×2	8960
+Zinc	Mineral BaseMetal.png Base Metal	Magnetic World - Heavy	7140
+Gallium	Mineral BaseMetal.png Base Metal	Chlorine World - Trace	5905
+Germanium	Mineral BaseMetal.png Base Metal	Xenolithic World - Trace	5325
+Arsenic	Mineral Common.png Common	Opalescent World - Light	5725
+Selenium	Mineral Common.png Common	Rainbow World - None	4820
+Bromine	Mineral Corrosive.png Corrosive	Redux World - Medium	3120
+Krypton	Mineral NobleGas.png Noble Gas	Ultramarine World - Medium	2415
+Rubidium	Mineral BaseMetal.png Base Metal	Primordial World - Medium	1530
+Strontium	Mineral BaseMetal.png Base Metal	Alkali World - Medium	2630
+Yttrium	Mineral BaseMetal.png Base Metal	Yttric World - Huge	4470
+Zirconium	Mineral BaseMetal.png Base Metal	Redux World - Light	6510
+Niobium	Mineral BaseMetal.png Base Metal	Magnetic World - Light	8570
+Molybdenum	Mineral BaseMetal.png Base Metal	Azure World - Light	10280
+Technetium	Mineral Radioactive.png Radioactive	Cracked World - Huge	11500
+Ruthenium	Mineral BaseMetal.png Base Metal	Telluric World - Medium	12370
+Rhodium	Mineral BaseMetal.png Base Metal	Maroon World - Medium	12450
+Palladium	Mineral Precious.png Precious	Cracked World - Huge	12025
+Silver	Mineral Precious.png Precious	Oolite World - Huge	10490
+Cadmium	Mineral BaseMetal.png Base Metal	Maroon World - Medium	8650
+Indium	Mineral BaseMetal.png Base Metal	Azure World - Light	7310
+Tin	Mineral BaseMetal.png Base Metal	Water World - Light	7310
+Antimony	Mineral BaseMetal.png Base Metal	Rainbow World - None	6695
+Tellurium	Mineral Common.png Common	Rainbow World - None	6240
+Iodine	Mineral Corrosive.png Corrosive	Iodine World - Heavy	4940
+Xenon	Mineral NobleGas.png Noble Gas	Noble World - Light	3100
+Cesium	Mineral BaseMetal.png Base Metal	Maroon World - Medium	1880
+Barium	Mineral BaseMetal.png Base Metal	Alkali World - Medium	3510
+Lanthanum	Mineral RareEarth.png Rare Earth	Lanthanide World - Medium	6145
+Cerium	Mineral RareEarth.png Rare Earth	Lanthanide World - Medium	6690
+Praseodymium	Mineral RareEarth.png Rare Earth	Green World - Heavy	6640
+Neodymium	Mineral RareEarth.png Rare Earth	Green World - Heavy	7010
+Promethium	Mineral Radioactive.png Radioactive	Lanthanide World - Medium	7265
+Samarium	Mineral RareEarth.png Rare Earth	Lanthanide World - Medium	7355
+Europium	Mineral RareEarth.png Rare Earth	Rainbow World - None	5245
+Gadolinium	Mineral RareEarth.png Rare Earth	Lanthanide World - Medium	7900
+Terbium	Mineral RareEarth.png Rare Earth	Lanthanide World - Medium	8220
+Dyprosium	Mineral RareEarth.png Rare Earth	Rainbow World - None	8550
+Holmium	Mineral RareEarth.png Rare Earth	Oolite World - Huge	8795
+Erbium	Mineral RareEarth.png Rare Earth	Oolite World - Huge	9065
+Thulium	Mineral RareEarth.png Rare Earth	Oolite World - Huge	9320
+Ytterbium	Mineral RareEarth.png Rare Earth	Oolite World - Huge	6570
+Lutetium	Mineral RareEarth.png Rare Earth	Oolite World - Huge	9840
+Hafnium	Mineral BaseMetal.png Base Metal	Rainbow World - None	13310
+Tantalum	Mineral BaseMetal.png Base Metal	Hydrocarbon - Light	16650
+Tungsten	Mineral BaseMetal.png Base Metal	Iodine World - Trace	19250
+Rhenium	Mineral BaseMetal.png Base Metal	Purple World - Medium	21020
+Osmium	Mineral BaseMetal.png Base Metal	Super-Dense World - Medium	22590
+Iridium	Mineral Precious.png Precious	Cracked World - Huge	22560
+Platinum	Mineral Precious.png Precious	Treasure World - Heavy	21450
+Gold	Mineral Precious.png Precious	Auric World - Huge×3	19300
+Mercury	Mineral BaseMetal.png Base Metal	Infrared World - Heavy	13535
+Thallium	Mineral BaseMetal.png Base Metal	Telluric World - Medium	11850
+Lead	Mineral BaseMetal.png Base Metal	Super-Dense World - Medium	11340
+Bismuth	Mineral BaseMetal.png Base Metal	Crimson World - Light	9780
+Polonium	Mineral Radioactive.png Radioactive	Cracked World - Huge	9195
+Astatine	Mineral Radioactive.png Radioactive	Halide World - Medium	6400
+Radon	Mineral Radioactive.png Radioactive	Fluorescent World - Light	4400
+Francium	Mineral Radioactive.png Radioactive	Plutonic World - Medium	2690
+Radium	Mineral Radioactive.png Radioactive	Radioactive World - Medium	5250
+Actinium	Mineral Radioactive.png Radioactive	Rainbow World - Heavy	10070
+Thorium	Mineral Radioactive.png Radioactive	Rainbow World - Heavy	11725
+Protactinium	Mineral Radioactive.png Radioactive	Rainbow World - Heavy	15370
+Uranium	Mineral Radioactive.png Radioactive	Metal World - Heavy	19050
+Neptunium	Mineral Radioactive.png Radioactive	Rainbow World - Heavy	20450
+Plutonium	Mineral Radioactive.png Radioactive	Rainbow World - Heavy	19815
+Ozone	Mineral Common.png Common	Rainbow World - Huge×2	1355
+Free Radicals	Mineral Common.png Common	Chondrite World - Heavy	1445
+Carbon Dioxide	Mineral Common.png Common	Organic World - Heavy	1100
+Carbon Monoxide	Mineral Common.png Common	Rainbow World - None	790
+Ammonia	Mineral Common.png Common	Primordial World - Huge	680
+Methane	Mineral Common.png Common	Primordial World - Huge	425
+Nitric Acid	Mineral Common.png Common	Acid World - Heavy	1510
+Sulfuric Acid	Mineral Common.png Common	Acid World - Heavy	1830
+Hydrochloric Acid	Mineral Common.png Common	Acid World - Heavy	1200
+Formic Acid	Mineral Common.png Common	Acid World - Heavy	1220
+Phosphoric Acid	Mineral Common.png Common	Acid World - Heavy	1880
+Hydrogen Cyanide	Mineral Common.png Common	Acid World - Heavy	685
+Formaldehyde	Mineral Common.png Common	Organic World - Heavy	815
+Cyanoacetylene	Mineral Common.png Common	Cyanic World - Huge	855
+Methanol	Mineral Common.png Common	Chondrite World - Heavy	790
+Ethanol	Mineral Common.png Common	Rainbow World - None	790
+Silicon Monoxide	Mineral Common.png Common	Rainbow World - None	2130
+Titanium Oxides	Mineral Common.png Common	Rainbow World - None	4230
+Zirconium Oxides	Mineral Common.png Common	Rainbow World - None	5680
+Heavy Water	Mineral Common.png Common	Rainbow World - None	1105
+Silicon Dioxide	Mineral Common.png Common	Rainbow World - None	2650
+Nickel Oxides	Mineral Common.png Common	Rainbow World - None	6670
+Iron Oxides	Mineral Common.png Common	Rainbow World - None	5490
+Calcium Oxide	Mineral Common.png Common	Rainbow World - None	3340
+Alumina	Mineral Common.png Common	Rainbow World - None	3985
+Nitrous Oxide	Mineral Common.png Common	Rainbow World - None	1220
+Oil	Mineral Common.png Common	Hydrocarbon World - Huge	825
+Degenerate Matter	Mineral Exotic.png Exotic	Quasi-Degenerate World - Medium	220
+Neutronium	Mineral Exotic.png Exotic	Quasi-Degenerate World - Medium	35
+Magnetic Monopoles	Mineral Exotic.png Exotic	Magnetic World - Trace	43410
+Aguuti Nodules	Mineral Exotic.png Exotic	Emerald World - Huge	45230
+Emerald	Mineral Precious.png Precious	Emerald World - Huge	2760
+Reisburg Helices	Mineral Exotic.png Exotic	Sapphire World - Huge	38150
+Sapphire	Mineral Precious.png Precious	Sapphire World - Huge	4060
+Tzo Crystals	Mineral Exotic.png Exotic	Ruby World - Huge	33840
+Ruby	Mineral Precious.png Precious	Ruby World - Huge	4050

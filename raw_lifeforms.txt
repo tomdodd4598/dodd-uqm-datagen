@@ -1,0 +1,26 @@
+Roto-Dendron	Lifea.1.png	Sessile	N/A	1	1	Static	Harmless
+Macrocilla	Lifeb.0.png	Sessile	N/A	6	1	Static	Harmless
+Splort Wort	Lifec.2.png	Sessile	N/A	3	1	Static	Low
+Whackin' Bush	Lifed.2.png	Sessile	N/A	5	3	Static	Moderate
+Slot Machine Tree	Lifee.1.png	Sessile	N/A	2	10	Static	Harmless
+Neon Worm	Lifef.0.png	Wanderer	N/A	1	2	Slow	Harmless
+Stiletto Urchin	Lifeg.2.png	Coward	Moderate	8	5	Slow	Harmless
+Deluxe Blob	Lifeh.0.png	Hunter	Low	2	2	Slow	Low
+Glowing Medusa	Lifei.0.png	Wanderer	N/A	3	8	Slow	Moderate
+Carousel Beast	Lifej.0.png	Hunter	Moderate	10	15	Slow	EXTREME
+Mysterious Bees	Lifek.0.png	Hunter	Moderate	3	3	Med	Low
+Hopping Blobby	Lifel.2.png	Coward	Moderate	2	1	Med	Harmless
+Blood Monkey	Lifem.3.png	Wanderer	N/A	2	2	Med	Low
+Yompin Yiminy	Lifen.3.png	Hunter	High	4	6	Med	Moderate
+Amorphous Trandicula	Lifeo.1.png	Wanderer	N/A	9	12	Med	EXTREME
+Crazy Weasel	Lifep.2.png	Hunter	High	3	1	Fast	Low
+Merry Whumpet	Lifeq.0.png	Coward	High	1	1	Fast	Harmless
+Fungal Squid	Lifer.1.png	Hunter	Low	7	8	Fast	Moderate
+Penguin Cyclops	Lifes.3.png	Coward	High	15	2	Fast	Low
+Chicken	Lifet.0.png	Coward	Low	1	1	Fast	Low
+Bubble Vine	Lifew.3.png	Wanderer	N/A	6	2	Slow	Low
+Bug-Eyed Bait	Lifex.3.png	Coward	High	4	2	Slow	Low
+Goo Burger	Lifey.3.png	Sessile	N/A	8	5	Static	Low
+Evil One	Lifeu.2.png	Sessile	N/A	1	1	Static	EXTREME
+Brainbox Bulldozers	Lifev.1.png	Wanderer	N/A	0	1	Slow	Harmless
+ZEX's Beauty	Lifez.0.png	Hunter	High	15	15	Fast	EXTREME
